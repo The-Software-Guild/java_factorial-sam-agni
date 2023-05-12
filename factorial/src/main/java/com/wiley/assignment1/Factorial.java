@@ -39,6 +39,7 @@ public class Factorial {
 			if (this.num >= 1 && this.num <= 10) {
 				return this.num;
 			}
+			
 		}
 		this.printStream.print("Please Enter valid Input as number between 1 and 10 only, both inclusive");
 
